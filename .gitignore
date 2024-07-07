@@ -1,6 +1,2 @@
-.gradle
-/.build
 /.idea
 *.log
-!**src/main/**
-!**src/test/**
